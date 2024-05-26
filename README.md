@@ -3,7 +3,7 @@ home_page:
 ![home](https://github.com/pawardivyas/fullstack_guru_website/assets/131606520/ad594026-0891-4c11-ae03-2b69c25b6c9a)
 
 about:
-![about_us](https://github.com/pawardivyas/fullstack_guru_website/assets/131606520/5059e191-5f8d-4ce5-b4aa-8a989b3cfd4c)
+![about](https://github.com/pawardivyas/fullstack_guru_website/assets/131606520/91070a01-41ec-48eb-afcb-d043c71f6038)
 
 course_facilities:
 ![course_facility](https://github.com/pawardivyas/fullstack_guru_website/assets/131606520/c30f636f-87ce-4b81-b704-e6b8e760f24a)
